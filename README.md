@@ -2,7 +2,7 @@
 
 **`Biólogo`**
 
-Me chamo Lucas Colafati S. D. D. Machi, tenho 24 anos e resido em São Carlos, SP. Sou Bacharel em Ciências Biológicas pela UFSCar e possuo experiência de três anos em pesquisa envolvendo genômica e bioinformática, onde construí um algoritmo especializado em análise transcriptômica (RNA-Seq). Sou apaixonado por tecnologia e games e atualmente estudo as linguagens Python, JavaScript, SQL, HTML5 e CSS3. 
+Me chamo Lucas Colafati S. D. D. Machi, tenho 24 anos e resido em São Carlos, SP. Sou Bacharel em Ciências Biológicas pela UFSCar e possuo experiência de três anos em pesquisa, onde construí um algoritmo para lidar com grandes conjuntos de dados biológicos. Sou apaixonado por tecnologia e games e atualmente estudo as linguagens Python, JavaScript, SQL, HTML5 e CSS3. 
 Nas horas vagas faço jogos, usando Unreal ou Godot Engine!
 
 ---
