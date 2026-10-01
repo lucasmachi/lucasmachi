@@ -1,13 +1,15 @@
 # 🧑‍💻🧬Lucas Machi
 
-**`Biólogo`**
+I’m Lucas, a web developer based in São Carlos, Brazil !
 
-Me chamo Lucas Colafati S. D. D. Machi, tenho 24 anos e resido em São Carlos, SP. Sou Bacharel em Ciências Biológicas pela UFSCar e possuo experiência de três anos em pesquisa, onde construí um algoritmo para lidar com grandes conjuntos de dados biológicos. Sou apaixonado por tecnologia e games e atualmente estudo as linguagens Python, JavaScript, SQL, HTML5 e CSS3. 
-Nas horas vagas faço jogos, usando Unreal ou Godot Engine!
+Before moving into web development I spent three years in biological research, where I developed algorithms to process large genomic datasets. That experience introduced me to programming, strengthened my problem-solving skills and taught me how to work with complex data 
+Today, I build projects across the frontend and backend, and I’m especially interested in creating useful and well-structured web applications.
+
+I’m also passionate about games and dream about being a game dev XD
+
 
 ---
-## ⚙️ Linguagens e Tecnologias
-
+## ⚙️ Technologies
 
 
 <img 
