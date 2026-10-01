@@ -2,7 +2,9 @@
 
 I’m Lucas, a web developer based in São Carlos, Brazil !
 
-Before moving into web development I spent three years in biological research, where I developed algorithms to process large genomic datasets. That experience introduced me to programming, strengthened my problem-solving skills and taught me how to work with complex data 
+Before moving into web development I spent three years in biological research, where I developed algorithms to process large genomic datasets. 
+That experience introduced me to programming, strengthened my problem-solving skills and taught me how to work with complex data 
+
 Today, I build projects across the frontend and backend, and I’m especially interested in creating useful and well-structured web applications.
 
 I’m also passionate about games and dream about being a game dev XD
