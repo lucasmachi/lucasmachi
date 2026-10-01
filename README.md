@@ -99,7 +99,7 @@ I’m also passionate about games and dream about being a game dev XD
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 EXP
 
 <img 
       align="left" 
